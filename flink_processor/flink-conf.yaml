@@ -1,0 +1,4 @@
+jobmanager.memory.process.size: 2048m
+taskmanager.memory.process.size: 4096m
+taskmanager.memory.task.heap.size: 2048m
+taskmanager.memory.managed.size: 2048m

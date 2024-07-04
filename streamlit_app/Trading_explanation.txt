@@ -1,0 +1,123 @@
+# Chart Options
+  1. EMA5 (Exponential Moving Average 5)
+
+    Definition: An average that gives more weight to recent prices, calculated over the last 5 periods.
+    Use: To quickly identify short-term trends and possible entry or exit points. More sensitive to recent price changes than SMA.
+   
+   2. EMA15 (Exponential Moving Average 15)
+
+    Definition: Similar to EMA5, but over the last 15 periods.
+    Use: To observe medium-term trends. Less sensitive than EMA5, providing a smoother trend line.
+
+   3. SMA (Simple Moving Average)
+
+    Definition: An unweighted average of prices over a specified number of periods.
+    Use: To smooth out price data and help identify the direction of the trend. Easier to calculate but less responsive to recent changes.
+
+   4. RSI (Relative Strength Index)
+
+    Definition: An oscillator that measures the speed and change of price movements, usually over 14 periods.
+    Use: To identify overbought (>70) or oversold (<30) conditions, helping to predict potential reversals.
+   
+   5. TSI (True Strength Index)
+
+    Definition: A momentum oscillator that helps to determine the strength of a trend.
+    Use: To confirm trends and identify potential reversals, smoothing price changes over a longer period than RSI.
+
+  6. MACD (Moving Average Convergence Divergence)
+
+    Definition: Shows the relationship between two moving averages (typically 12-period and 26-period EMAs).
+    Use: To identify changes in the strength, direction, momentum, and duration of a trend. Commonly used with a signal line for crossovers.
+
+  7. ADX (Average Directional Index)
+
+    Definition: Measures the strength of a trend, regardless of its direction.
+    Use: To quantify trend strength. Values above 25 often indicate a strong trend, while below 20 suggest a weak trend or range-bound market.
+
+  8. Support/Resistance
+
+    Definition: Horizontal lines on a chart representing levels where the price has historically had difficulty moving above (resistance) or below (support).
+    Use: To identify potential entry and exit points. Support acts as a floor for the price, while resistance acts as a ceiling.
+
+
+# Trading Strategies
+
+  1. Scalping
+
+    Definition: A strategy focused on profiting from small price changes over short time periods.
+    Use: Requires quick execution and decision-making, often using 1-minute or 5-minute charts. High volume of trades with small profits.
+
+  2. Range Trading
+
+    Definition: Involves buying at the support level and selling at the resistance level within a defined price range.
+    Use: Effective in markets without clear trends. Relies on identifying strong support and resistance levels.
+  
+  3. Momentum Trading
+
+    Definition: Focuses on stocks moving significantly in one direction on high volume.
+    Use: To ride the momentum of a trend until it shows signs of reversing. Indicators like RSI and MACD are commonly used.
+
+  4. Breakout Trading
+
+    Definition: Entering a trade when the price moves beyond a defined support or resistance level.
+    Use: To capitalize on strong directional movements following a breakout. Often combined with volume confirmation.
+
+# Pattern Recognition
+
+  1. Ascending Triangle
+
+    Definition: A bullish pattern with a rising lower trendline and a flat upper trendline.
+    Use: Indicates accumulation and potential breakout to the upside. Traders often enter when the price breaks above the upper trendline.
+
+  2. Descending Triangle
+
+    Definition: A bearish pattern with a declining upper trendline and a flat lower trendline.
+    Use: Suggests distribution and potential breakdown to the downside. Traders enter when the price breaks below the lower trendline.
+
+  3. Rounding Bottom
+
+    Definition: A long-term reversal pattern that resembles a U-shape.
+    Use: Indicates a gradual shift from a downtrend to an uptrend. Typically, traders enter after the price breaks above the peak of the pattern.
+
+# Chart Type Options
+
+  1. Candlestick
+
+    Definition: Displays the open, high, low, and close prices for a specific period using a 'candle'.
+    Use: Provides a visual representation of price movements, showing market sentiment. Essential for identifying patterns and potential reversals.
+
+  2. Heikin Ashi
+
+    Definition: A modified candlestick chart that uses average price data to create a smoother appearance.
+    Use: To identify trends and potential reversal points more clearly, filtering out market noise.
+
+  3. OHLC (Open, High, Low, Close)
+
+    Definition: Bar chart that shows the open, high, low, and close prices for a given period.
+    Use: Offers a clear view of price range and market direction. Useful for identifying trends and price patterns.
+
+  4. Raindrop
+
+    Definition: Combines price and volume data to show how volume is distributed within the price range of a period.
+    Use: Provides insights into price action and volume trends, highlighting where most trading activity occurred within a candle.
+
+  5. Renko
+
+    Definition: Focuses on price movement, filtering out minor price fluctuations to emphasize major trends.
+    Use: To highlight significant price changes and trends, ignoring time and focusing solely on price movement.
+
+  6. Line
+
+    Definition: Connects closing prices with a continuous line.
+    Use: To provide a simple and clear view of the overall trend, without the details of individual periods.
+  
+  7. Area
+
+    Definition: Similar to a line chart, but the area below the line is filled in.
+    Use: To visually emphasize the magnitude of price movements and trends.
+
+# Time Line
+
+    Definition: The specific period being analyzed on the chart (e.g., 1 minute, 5 minutes, 1 hour, 1 day, etc.).
+    Use: To adjust the chart view to show price movements over different periods, providing various levels of detail for analysis. 
+    Helps traders choose the appropriate timeframe for their trading strategy and market analysis.

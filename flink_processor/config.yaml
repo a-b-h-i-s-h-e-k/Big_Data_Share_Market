@@ -1,0 +1,34 @@
+blob.server.port: 6124
+jobmanager.rpc.address: flink-jobmanager
+taskmanager.numberOfTaskSlots: 2
+query.server.port: 6125
+
+jobmanager.rpc.address: flink-jobmanager
+
+
+taskmanager.numberOfTaskSlots: 2
+
+
+jobmanager.rpc.address: flink-jobmanager
+
+
+taskmanager.numberOfTaskSlots: 2
+
+
+jobmanager.rpc.address: flink-jobmanager
+
+
+taskmanager.numberOfTaskSlots: 2
+
+
+jobmanager.rpc.address: flink-jobmanager
+
+
+taskmanager.numberOfTaskSlots: 2
+
+
+jobmanager.rpc.address: flink-jobmanager
+
+
+taskmanager.numberOfTaskSlots: 2
+
