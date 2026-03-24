@@ -61,7 +61,7 @@ Design and build a system that:
 
 
 
-```mermaid
+```
 flowchart LR
     A[Yahoo Finance API] --> B[Kafka Producer]
     B --> C[(Kafka Topics)]
